@@ -6,3 +6,6 @@
 
 ## 高质量博客
 [coco1s](http://www.cnblogs.com/coco1s/)
+
+## 其它
+[http接口设计指北](https://github.com/bolasblack/http-api-guide)
